@@ -2195,7 +2195,8 @@ input, select, textarea {
 		}
 
 			.panel > *.color0 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4);
+				/* background-image: url("../../images/overlay.png"), linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4); */
+				background-color: #0d4d0b;
 				background-size: 128px 128px, auto;
 			}
 
@@ -2712,24 +2713,23 @@ input, select, textarea {
 		}
 
 		.panel.color0 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4);
+			background-image: url("../../images/fondo.jpg"), linear-gradient(45deg, #03742e 20%, #1c8b00 60%, #0a9e43);
+			background-color: #0d4d0b;
 			background-size: 128px 128px, auto;
 		}
 
 		.panel.color1 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
-			background-size: 128px 128px, auto;
-			background-color: #726193;
+			background-color: #0d4d0b;
 		}
 
 		.panel.color2 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(3, 102, 3, 0.808) 25%, rgba(6, 117, 12, 0.25) 50%, rgba(3, 82, 23, 0.25));
 			background-size: 128px 128px, auto;
 			background-color: #e37b7c;
 		}
 
 		.panel.color3 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(6, 90, 3, 0.829) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
 			background-size: 128px 128px, auto;
 			background-color: #ffe4b4;
 		}
@@ -2775,7 +2775,7 @@ input, select, textarea {
 		}
 
 			.panel > *.color1 {
-				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(2, 92, 7, 0.973) 25%, rgba(1, 63, 10, 0.25) 50%, rgba(4, 75, 4, 0.25));
 				background-size: 128px 128px, auto;
 				background-color: #726193;
 			}
